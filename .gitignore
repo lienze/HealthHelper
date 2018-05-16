@@ -33,3 +33,6 @@
 
 # Directory
 build-HealthHelper*
+
+# Special File
+HealthHelper.pro.user
