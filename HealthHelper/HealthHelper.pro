@@ -35,3 +35,6 @@ HEADERS += \
 FORMS += \
         widget.ui \
     mainwidget.ui
+
+RESOURCES += \
+    images.qrc
